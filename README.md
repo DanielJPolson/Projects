@@ -1,2 +1,3 @@
 # Projects
-All projects I've worked on through UVic
+All projects I've worked on through UVic.
+
